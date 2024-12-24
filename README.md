@@ -17,7 +17,15 @@ conda create --name finance-data-pipeline -f environment.yml
 conda init zsh
 conda activate finance-data-pipeline
 conda install ipykernel
+conda install pytorch -c pytorch
 ```
 In VS Studio code, select the Python enviroment as `finance-data-pipeline`
 
+### Mac os
+```
 
+
+```
+
+### Linux
+TBD
